@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Default text colors (white or red). -->
+    
+    <color name="textColor">#FFF</color>  <!-- Text color (white) -->
+    <color name="textColor2">#F00</color> <!-- Title color (red) -->
+    
+</resources>

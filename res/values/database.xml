@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Default books names and an url linked to one of their song. -->
+    
+    <string name="book1">W. A. Mozart</string>
+    <string name="book1url">https://www.youtube.com/watch?v=zK5295yEQMQ</string>
+    
+    <string name="book2">Luc Arbogast</string>
+    <string name="book2url">https://www.youtube.com/watch?v=zK5295yEQMQ</string>
+    
+    <string name="book3">Daft Punk</string>
+    <string name="book3url">https://www.youtube.com/watch?v=5NV6Rdv1a3I</string>
+    
+    <string name="book4">Prince</string>
+    <string name="book4url">https://www.youtube.com/watch?v=GHbyNrGXpAA</string>
+    
+    <string name="book5">Louis Armstrong</string>
+    <string name="book5url">https://www.youtube.com/watch?v=wyLjbMBpGDA</string>
+    
+    <string name="book6">Arch Enemy</string>
+    <string name="book6url">https://www.youtube.com/watch?v=n9AcG0glVu4</string>
+    
+    <string name="book7">Mika</string>
+    <string name="book7url">https://www.youtube.com/watch?v=RVmG_d3HKBA</string>
+    
+    <string name="book8">Eminem</string>
+    <string name="book8url">https://www.youtube.com/watch?v=YVkUvmDQ3HY</string>
+    
+    <string name="book9">Bob Marley</string>
+    <string name="book9url">https://www.youtube.com/watch?v=4uPZbIezChI</string>
+    
+    <string name="book10">Alicia Keys</string>
+    <string name="book10url">https://www.youtube.com/watch?v=Urdlvw0SSEc</string>
+    
+    <string name="book11">Superbus</string>
+    <string name="book11url">https://www.youtube.com/watch?v=rnMWEbDKaQs</string>
+    
+    <string name="book12">David Guetta</string>
+    <string name="book12url">https://www.youtube.com/watch?v=JRfuAukYTKg</string>
+    
+</resources>

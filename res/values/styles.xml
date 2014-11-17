@@ -1,0 +1,35 @@
+<resources>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+    </style>
+    
+    <!-- Application theme. -->
+    
+    <style name="AppTheme" parent="AppBaseTheme">
+
+	    <item name="android:layout_width">wrap_content</item>
+	    <item name="android:layout_height">wrap_content</item>
+	    <item name="android:textColor">@color/textColor</item>
+	    <item name="android:textSize">@dimen/textSize</item>
+	</style>
+	
+	<!-- Default item theme. -->
+	
+	<style name="ElemTheme">
+
+	    <item name="android:textColor">@color/textColor</item>
+	    <item name="android:textSize">@dimen/textSize</item>
+	    <item name="android:layout_width">wrap_content</item>
+	    <item name="android:layout_height">wrap_content</item>
+	</style>
+	
+	<!-- Default item theme 2. -->
+	
+	<style name="ElemTheme2">
+
+	    <item name="android:textColor">@color/textColor2</item>
+	    <item name="android:textSize">@dimen/textSize</item>
+	    <item name="android:layout_width">wrap_content</item>
+	    <item name="android:layout_height">wrap_content</item>
+	</style>
+</resources>

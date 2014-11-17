@@ -1,0 +1,113 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bg"
+    tools:context=".MainActivity" >
+
+    <!-- Main button. -->
+    <Button
+        android:id="@+id/button1"
+        style="@style/ElemTheme"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:text="@string/books" />
+
+    <!-- frlitt checkbox. -->
+    <CheckBox
+        android:id="@+id/checkBox1"
+        style="@style/ElemTheme"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/frlitt" />
+
+    <!-- thriller checkbox. -->
+    <CheckBox
+        android:id="@+id/checkBox2"
+        style="@style/ElemTheme"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/checkBox1"
+        android:text="@string/thriller" />
+    
+    <!-- detective checkbox. -->
+    <CheckBox
+        android:id="@+id/checkBox3"
+        style="@style/ElemTheme"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/checkBox2"
+        android:text="@string/detective" />
+    
+    <!-- fantastic checkbox. -->
+    <CheckBox
+        android:id="@+id/checkBox4"
+        style="@style/ElemTheme"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/checkBox3"
+        android:text="@string/fantastic" />
+    
+    <!-- sf checkbox. -->
+    <CheckBox
+        android:id="@+id/checkBox5"
+        style="@style/ElemTheme"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/checkBox4"
+        android:text="@string/sf" />
+    
+    <!-- educative checkbox. -->
+    <CheckBox
+        android:id="@+id/checkBox6"
+        style="@style/ElemTheme"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/checkBox5"
+        android:text="@string/educative" />
+    
+    <!-- politic checkbox. -->
+    <CheckBox
+        android:id="@+id/checkBox7"
+        style="@style/ElemTheme"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/checkBox6"
+        android:text="@string/politic" />
+    
+    <!-- romantic checkbox. -->
+    <CheckBox
+        android:id="@+id/checkBox8"
+        style="@style/ElemTheme"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/checkBox7"
+        android:text="@string/romantic" />
+    
+    <!-- horror checkbox. -->
+    <CheckBox
+        android:id="@+id/checkBox9"
+        style="@style/ElemTheme"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/checkBox8"
+        android:text="@string/horror" />
+    
+    <!-- historical checkbox. -->
+    <CheckBox
+        android:id="@+id/checkBox10"
+        style="@style/ElemTheme"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/checkBox9"
+        android:text="@string/historical" />
+    
+    <!-- encyclopedia checkbox. -->
+    <CheckBox
+        android:id="@+id/checkBox11"
+        style="@style/ElemTheme"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/checkBox10"
+        android:text="@string/encyclopedia" />
+    
+    <!-- Others checkbox. -->
+    <CheckBox
+        android:id="@+id/checkBox12"
+        style="@style/ElemTheme"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/checkBox11"
+        android:text="@string/others" />
+
+</RelativeLayout>
